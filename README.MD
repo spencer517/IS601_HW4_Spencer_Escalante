@@ -1,2 +1,7 @@
-This is my homework number 4 for IS601 
+#Project Description
+This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman
+#Postman Screenshot
+![postman request output](screenshots/postman_screenshot.png)
+
+
 Author: Spencer Escalante
